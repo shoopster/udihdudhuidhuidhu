@@ -1,0 +1,51 @@
+{
+  "tokens": {
+    "main": "NDI2NTA3MzAyOTMwMjE5MDI4.YALWJw.j9OjawqgEhe27CZa60izkWshFps",
+    "alts": [
+      "Nzk0ODU1NzM2MzQ5MTYzNjEx.YALeXQ.UGFUNKqO-rE63nUjimLjnTfyDSc",
+      "Nzg0MjY4NjYxMDUzMzI1MzQy.YAZhAw.T3urGVMqsdRmpFLcR9GclotyuXA"
+    ]
+  },
+  "status": {
+    "main": "online",
+    "alts": "dnd"
+  },
+  "nitro": {
+    "max": 3,
+    "cooldown": 12,
+    "main_sniper": false
+  },
+  "giveaway": {
+    "enable": true,
+    "delay": 15,
+    "dm": "it says i won",
+    "dm_delay": 10,
+    "blacklist_words": [
+      "test",
+      "ban"
+    ],
+    "whitelist_words": [
+      "nitro",
+      "giveaway"
+    ],
+    "blacklist_servers": [
+      ""
+    ]
+  },
+  "invite": {
+    "enable": true,
+    "delay": {
+      "min": 0,
+      "max": 3
+    },
+    "max": 10,
+    "cooldown": 6
+  },
+  "privnote": {
+    "enable": true
+  },
+  "webhook": {
+    "url": "https://discord.com/api/webhooks/801009691634958347/MMFHHUq4NkZxuwr-ZTjzqaZXoCbVxAYO1-6Qz9KgOqntQMitQc8VfAmaO8SfNrqpnDCW",
+    "good_only": false
+  }
+}
